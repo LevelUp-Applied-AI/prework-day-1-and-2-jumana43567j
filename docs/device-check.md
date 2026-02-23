@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [JUMAMA]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-2-23]
+**GitHub username:** [jumana43567j]
 
 ---
 
@@ -10,13 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | Windows 11 25H2 Home|
+| OS Build / Version | 26200.7840 |
+| RAM | 8 GB |
+| CPU Model | Intel(R) Core(TM) i5-1035G1 |
+| CPU Cores | 1.00GHz (1.19 GHz) |
+| Free Disk Space | 51 GB free |
+| Internet Speed (Download) | 91.21 |
 
 ---
 
