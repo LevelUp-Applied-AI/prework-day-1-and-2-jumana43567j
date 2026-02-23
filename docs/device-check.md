@@ -22,12 +22,16 @@
 
 ## Evidence Checklist
 
-- [ ] Screenshot: OS version
-- [ ] Screenshot: RAM and CPU details
-- [ ] Screenshot: Free disk space
+- [<img width="1916" height="937" alt="Screenshot 2026-02-23 025101" src="https://github.com/user-attachments/assets/2c6b20df-5351-49d6-a38f-4ab890d393ba" />
+ ] Screenshot: OS version
+- [<img width="1919" height="931" alt="Screenshot 2026-02-23 025201" src="https://github.com/user-attachments/assets/44ed0a61-ca49-4ddc-be3c-d59186398ed2" />
+ ] Screenshot: RAM and CPU details
+- [ <img width="1919" height="935" alt="Screenshot 2026-02-23 025312" src="https://github.com/user-attachments/assets/28d1cfc1-af11-4ca7-89a5-52686cbfabbd" />
+] Screenshot: Free disk space
 - [<img width="1919" height="920" alt="Screenshot 2026-02-23 025246" src="https://github.com/user-attachments/assets/d488b0fa-567d-43d2-aa3c-c9f118c8991f" />
  ] Screenshot: Internet speed test result
-- [ ] Screenshot: Admin rights confirmed
+- [<img width="1919" height="938" alt="Screenshot 2026-02-23 025920" src="https://github.com/user-attachments/assets/fcc08703-5618-41c1-bedc-34fd40190593" />
+ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
