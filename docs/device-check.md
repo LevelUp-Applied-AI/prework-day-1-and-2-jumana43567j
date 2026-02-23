@@ -25,7 +25,8 @@
 - [ ] Screenshot: OS version
 - [ ] Screenshot: RAM and CPU details
 - [ ] Screenshot: Free disk space
-- [ ] Screenshot: Internet speed test result
+- [<img width="1919" height="920" alt="Screenshot 2026-02-23 025246" src="https://github.com/user-attachments/assets/d488b0fa-567d-43d2-aa3c-c9f118c8991f" />
+ ] Screenshot: Internet speed test result
 - [ ] Screenshot: Admin rights confirmed
 
 **Windows only:**
