@@ -28,3 +28,19 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+
+## About
+
+[Write one paragraph: who you are and what this repository is for.]
+
+My name is Jumana.
+I am learning software engineering and AI development.
+This repository is for setting up my development environment and practicing Git,
+Python, and other tools needed for the Applied AI Pre-Work program.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/jumana43567j-prework.git
+cd jumana43567j-prework
